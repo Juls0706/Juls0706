@@ -11,6 +11,7 @@ I am Juliana R. Mancera, with a flair for coding and database management skills.
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA5F4F55EB74975DBF1144EABFCEFB66C7DFE9F3168DCC50A661B8B21968EB84)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8339061558F6FB5F2CC6602BB7E61C1F24547A361974349ABE5A7C6C33A7B1D7)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=776C7C6872BB2111549DE97023F5A8A6A5D92E106866F9638CFE75ACF5EABDE8)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe)
 
 ## Skill sets:
 - **Programming:** Java, Javascript
