@@ -14,9 +14,9 @@ I am Juliana R. Mancera, with a flair for coding and database management skills.
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/8a8256c83a5a46cf9903f4a55db2abbe)
 
 ## Skill sets:
-- **Programming:** Java, Javascript
+- **Programming:** Java, Javascript, SQL, Python, HTML, CSS
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, IntelliJ, VS Code
 
 ## Contact:
 - **LinkedIn:** [LinkedIn Profile](linkedin-profile-link)
